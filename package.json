@@ -1,0 +1,24 @@
+{
+  "name": "learn-ddd-architecture",
+  "version": "1.0.0",
+  "description": "Learning Domain Driven Design Node JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/RageNeko26/learn-ddd-architecture.git"
+  },
+  "keywords": [
+    "ddd",
+    "architecture",
+    "nodejs"
+  ],
+  "author": "RidhoGAPX",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RageNeko26/learn-ddd-architecture/issues"
+  },
+  "homepage": "https://github.com/RageNeko26/learn-ddd-architecture#readme"
+}
