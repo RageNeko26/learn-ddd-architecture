@@ -1,5 +1,5 @@
 import { Model, Sequelize } from "sequelize";
-import MemoEntity from "./memo_entity";
+import MemoEntity from "./Entities/memo_entity";
 
 class MemoModel extends Model<MemoEntity> {
     declare id: number;
